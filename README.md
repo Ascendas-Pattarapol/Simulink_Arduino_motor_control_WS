@@ -7,9 +7,6 @@
 <!-- Begin Toc -->
 
 ## Table of Contents
-[![image_0.png](./HandsOn_Workshop_media/image_0.png)](#TMP_0153)
- 
-[Hand\-On Embedded Workshop](#TMP_3ccb)
  
 &emsp;[Prerequisite checking](#TMP_7da6)
  
@@ -22,8 +19,6 @@
 &emsp;[Introduction to MATLAB](#TMP_7fc6)
  
 &emsp;&emsp;[Menu bar](#TMP_7f2a)
- 
-&emsp;&emsp;[![image_5.png](./HandsOn_Workshop_media/image_5.png)](#TMP_68b5)
  
 &emsp;&emsp;[Task 1: Create variable](#TMP_2f7d)
  
