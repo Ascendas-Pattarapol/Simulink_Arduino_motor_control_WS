@@ -91,6 +91,7 @@
 ## Wiring Diagram
 
 ![image_3.png](./HandsOn_Workshop_media/image_3.png)
+![image99.jpg](./HandsOn_Workshop_media/image99.jpg)
 
 <a id="TMP_7fc6"></a>
 
